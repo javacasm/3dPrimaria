@@ -2,7 +2,7 @@
 
 # [BlockScad](https://www.blockscad3d.com/editor/)
 
-![1](http://2.bp.blogspot.com/-P-chMl2oQvs/Vnah3-vUuqI/AAAAAAAAVHw/pT5gACWa_3Q/s1600/BlocksCAD.PNG)
+![1](./images/BlocksCad.jpeg)
 
 Programa de diseño paramétrico (Como OpenScad) pero que utiliza bloques para definir el programa.
 
@@ -12,4 +12,6 @@ Tras la aparence simplicidad de los bloques permite hacer diseños muy complejos
 * Transformaciones
 * Uso de funciones matemáticas complejas
 
-[Tutorial para construir una taza](https://blockscad.einsteinsworkshop.com/docs/tutorial.html)
+[Tutoriales](https://www.blockscad3d.com/edu/lessons/)
+
+[Recuros para profesores](https://www.blockscad3d.com/edu/resources/)
