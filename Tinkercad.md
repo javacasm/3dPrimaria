@@ -29,7 +29,7 @@
 
 ## Uso en clase
 
-TODO
+[Ejemplo de curso de 3 sesiones](Desarrollo_clases.md)
 
 
 # Tareas
@@ -38,6 +38,6 @@ TODO
 1. Cabeza de Conejo (usando plano de trabajo)
 1. Crear tubo (Cilindros centrados)
 1. Hacer un dado
-
+1. [Conversión 2D a 3D](2d-To-3D.md)
 
 [Mini-Curso de TinkerCad](https://www.youtube.com/playlist?list=PLWFBhjhRekOCKjZvrtUG7M988SZfh9TkJ)
